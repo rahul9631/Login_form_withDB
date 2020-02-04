@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+body{
+     background-image: url(back.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+}
+.container{
+    width: 500px;
+ 
+    
+
+}
+.container form{
+    background-color: cadetblue;
+    margin-top: 100px;
+    border-radius: 8px;
+    opacity: 0.8;
+ 
+    
+    
+}
+h2{
+    font-family:sans-serif;
+    color:white;
+    
+}
+form{
+    padding: 20px;
+    
+    
+}
+input{
+    padding: 20px;
+    
+}
